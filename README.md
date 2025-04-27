@@ -98,6 +98,9 @@ python main.py
 - Get detailed answers!
 
 ## 7. Screenshots
+![Uploading PDF](screenshots/Screenshot%201.jpg)
+
+![Chatting with Document](screenshots/Screenshot%202.jpg)
 
 
 
